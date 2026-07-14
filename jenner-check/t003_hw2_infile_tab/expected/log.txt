@@ -1,0 +1,18 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T020019Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA work.bp1
+
+NOTE: Processing inline DATALINES (9 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote work.bp1 (8 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC CONTENTS data=work.bp1
+
+NOTE: PROC CONTENTS completed: 8 observations, 10 variables
+NOTE: PROC PRINT data=work.bp1
+
+NOTE: PROC PRINT completed: 8 observations printed, 10 variables

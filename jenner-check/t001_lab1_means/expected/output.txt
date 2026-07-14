@@ -1,0 +1,9 @@
+                                       Average Price and Average Number of Shares
+
+                                                  The MEANS Procedure
+
+ Variable            Mean
+ ------------------------
+ Price         45.2616667
+ Shares       111.6666667
+ ------------------------

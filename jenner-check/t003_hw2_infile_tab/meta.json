@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_hw2_infile_tab",
+  "source_file": "homework/Homework 2.sas",
+  "source_blob_sha": "eddb004873651e2df2566188c19469ba958465ba",
+  "source_commit": "cf13fcaac8acb4b90971f9d527e802dd348d2f5c",
+  "notes": "Homework 2 Problem 2a: INFILE DLM='09'x DSD FIRSTOBS=2 TRUNCOVER list INPUT + PROC CONTENTS/PRINT. Substitution: external bp.txt inlined as tab-delimited DATALINES (8 rows + header) so the bundle is self-contained; INFILE options, LENGTH, and list INPUT unchanged."
+}

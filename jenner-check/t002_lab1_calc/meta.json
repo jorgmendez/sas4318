@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_lab1_calc",
+  "source_file": "labs/Lab 1.sas",
+  "source_blob_sha": "fe84c23349671800531b3148c49ec9717f27cef3",
+  "source_commit": "cf13fcaac8acb4b90971f9d527e802dd348d2f5c",
+  "notes": "Lab 1 Problem 2 verbatim: inline DATALINES + derived vars (WtKg, HtCm, AveBP, HtPolynomial) + PROC PRINT. Self-contained; no edits."
+}
