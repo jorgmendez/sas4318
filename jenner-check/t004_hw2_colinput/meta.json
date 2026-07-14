@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_hw2_colinput",
+  "source_file": "homework/Homework 2.sas",
+  "source_blob_sha": "eddb004873651e2df2566188c19469ba958465ba",
+  "source_commit": "cf13fcaac8acb4b90971f9d527e802dd348d2f5c",
+  "notes": "Homework 2 Problem 3: fixed-column INFILE (@1 ptid $CHAR6. @12 clinic @25 group @27 age @30 sex) + PROC PRINT/MEANS/FREQ. Substitution: external tomhs.dat inlined as fixed-width DATALINES (10 rows at exact columns) so the bundle is self-contained; @-column INPUT pointers and all three PROCs unchanged."
+}

@@ -1,0 +1,36 @@
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: work.bp1
+Observations:  8
+Variables:     10
+
+Variables (in creation order):
+
+  #  Variable  Type    Len  Format  Label
+---  --------  ----  -----  ------  -----
+  1  ptid      Char     20          
+  2  clinic    Char     20          
+  3  sex       Char      1          
+  4  age        Num      8          
+  5  dbpbl      Num      8          
+  6  dbp6       Num      8          
+  7  dbp12      Num      8          
+  8  sbpbl      Num      8          
+  9  sbp6       Num      8          
+ 10  sbp12      Num      8          
+
+-------------------------------------------------------------------------------
+
+
+  Obs   ptid  clinic  sex  age  dbpbl  dbp6  dbp12  sbpbl  sbp6  sbp12
+-----  -----  ------  ---  ---  -----  ----  -----  -----  ----  -----
+    1  10001  A       M     54     95    88     84    150   142    138
+    2  10002  A       F     61    102    94     90    168   155    149
+    3  10003  B       M     47     88    82     80    138   132    130
+    4  10004  B       F     58     99    91     87    159   148    143
+    5  10005  C       M     66    105    97     93    172   160    152
+    6  10006  C       F     50     91    85     83    145   139    135
+    7  10007  A       M     72    110   101     96    180   168    159
+    8  10008  B       F     45     85    80     78    132   128    126
